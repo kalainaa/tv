@@ -1,3 +1,2 @@
 #tv
-Trading View lightweight charts 
-npm install lightweight-charts react-select
+npm install lightweight-charts react-select (trading view)
